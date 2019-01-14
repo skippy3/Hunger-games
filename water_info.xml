@@ -1,0 +1,4 @@
+<WaterSources>
+  <Water pos="-429, 57, -7"/>  <!-- river start west -->
+   <Water pos="161, 58, 172"/>  <!-- lake --> 
+</WaterSources>

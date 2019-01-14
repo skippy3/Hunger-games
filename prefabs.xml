@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefabs>
+    <!--Bridge -->
+	<decoration type="model" name="bridge_concrete1" position="-5, 59, -47" rotation="3" />  <!--south bridge-->
+    <decoration type="model" name="bridge_concrete1" position="-5, 59, 4" rotation="3" />	<!--North bridge-->
+    <decoration type="model" name="canyon_car_wreck" position="21, 59, -3" rotation="3" />	<!--wreck-->	
+<!--SouthWest Roundabout-->
+    <decoration type="model" name="oldwest_gallows" position="-156, 70, -179" rotation="3" />	<!--Gallows-->	
+    <decoration type="model" name="oldwest_hotel_02" position="-164, 60, -128" rotation="0" />
+    <decoration type="model" name="oldwest_md_shop_04" position="-143, 60, -128" rotation="0" />	
+    <decoration type="model" name="oldwest_church" position="-143, 60, -231" rotation="2" />
+    <decoration type="model" name="oldwest_jail" position="-165, 60, -232" rotation="2" />
+    <decoration type="model" name="oldwest_sm_shop_01" position="-102, 60, -172" rotation="3" />
+    <decoration type="model" name="oldwest_md_shop_01" position="-102, 60, -194" rotation="3" />
+    <decoration type="model" name="oldwest_sm_shop_02" position="-209, 60, -186" rotation="1" />
+    <decoration type="model" name="oldwest_sm_shop_03" position="-210, 60, -171" rotation="1" />
+	<!--homes-->
+    <decoration type="model" name="house_old_pyramid_02" position="-293, 57, -280" rotation="0" />	
+    <decoration type="model" name="garage_03" position="-228, 59, -292" rotation="0" />		
+    <decoration type="model" name="house_old_ranch_01" position="-293, 59, -102" rotation="3" />		
+    <decoration type="model" name="house_old_modular_01" position="-199, 59, -89" rotation="3" />	
+    <decoration type="model" name="house_old_mansard_06" position="7, 53, -104" rotation="3" />
+
+	<decoration type="model" name="gas_station7" position="-40, 59, -92" rotation="2" />
+	<decoration type="model" name="house_old_bungalow_09" position="-34, 55, -171" rotation="0" />
+	<decoration type="model" name="abandoned_house_07" position="-36, 59, -293" rotation="0" />
+	<decoration type="model" name="garage_07" position="-33, 59, -224" rotation="1" />
+	<decoration type="model" name="house_construction_02" position="7, 54, -211" rotation="3" />
+	<decoration type="model" name="house_old_bungalow_02" position="133, 56, -293" rotation="0" />
+	<decoration type="model" name="business_old_01" position="247, 59, -204" rotation="1" />	
+	<decoration type="model" name="water_tower_02" position="176, 60, -82" rotation="1" />
+<!--Northeast quad-->
+	<decoration type="model" name="junkyard_01" position="7, 54, 56" rotation="0" /> 
+	<decoration type="model" name="police_station1" position="-46, 59, 56" rotation="0" />	
+	<decoration type="model" name="mp_waste_bldg_04_tan" position="-248, 59, 56" rotation="0" />
+	<decoration type="model" name="bar_stripclub_01" position="-45, 59, 149" rotation="1" />	
+	<decoration type="model" name="houseburnt1" position="-42, 60, 265" rotation="2" />	
+	<decoration type="model" name="house_old_modular_08" position="18, 59, 252" rotation="2" />		
+	<decoration type="model" name="docks_04" position="153, 44, 174" rotation="2" />			
+	<decoration type="model" name="house_old_bungalow_01" position="262, 55, 246" rotation="2" />		
+	<decoration type="model" name="cabin_11" position="256, 48, 56" rotation="0" />	
+	<decoration type="model" name="cabin_06" position="-293, 54, 262" rotation="2" />	
+
+	
+</prefabs>
